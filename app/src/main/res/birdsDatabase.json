@@ -1,0 +1,417 @@
+{
+  "birds": [
+    {
+      "maoriName": "",
+      "englishName": "Albatross",
+      "description": "Albatross are the world's largest seabirds, spending at least 85% of their lives at sea. New Zealand's albatrosses include two species of royal albatross/toroa.",
+      "imageName": "albatross",
+      "imageCredit": "Source: Department of Conservation"
+    },
+    {
+      "maoriName": "Matuku",
+      "englishName": "Australasian Bittern",
+      "description": "The endangered matuku inhabits wetlands throughout New Zealand. DOC is focusing on developing methods for surveying bittern systematically and for restoring wetlands.",
+      "imageName": "australasianBittern",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Kāmana",
+      "englishName": "Australasian Crested Grebe",
+      "description": "The Australasian crested grebe is a diving water bird. Lake Pearson/Moana Rua in Canterbury has been designated a wildlife refuge to help protect the grebe.",
+      "imageName": "australasianCrestedGrebe",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Moho Pererū",
+      "englishName": "Banded Rail",
+      "description": "The banded rail is a native subspecies which inhabits wetlands throughout New Zealand.",
+      "imageName": "brandedRail",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Korimako",
+      "englishName": "Bellbird",
+      "description": "The melodious bellbird is still widespread but mammalian predators keep their numbers low.",
+      "imageName": "bellbird",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Tarāpuka",
+      "englishName": "Black billed gull",
+      "description": "New Zealand's only endemic gull is the most threatened gull species in the world, and it's rapidly declining.",
+      "imageName": "blackBilledGull",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "",
+      "englishName": "Chatham Islands Black Robin",
+      "description": "The recovery of the Chatham Islands black robin from the brink of extinction is an internationally renowned conservation success story.",
+      "imageName": "chathamIslandsBlackRobin",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Kakī",
+      "englishName": "Black Stilt",
+      "description": "Kakī, or black stilt, is a native wading bird only found in New Zealand. It is regarded by Māori as a taonga species – a living treasure.",
+      "imageName": "blackStilt",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Tarapirohe",
+      "englishName": "Black-fronted Tern",
+      "description": "Most terns are seabirds but the black-fronted tern lives and breeds inland, only visiting the coast to feed in autumn and winter.",
+      "imageName": "BlackfrontedTern",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Whio",
+      "englishName": "Blue Duck",
+      "description": "The blue duck/whio is only found in New Zealand. It is a nationally vulnerable species and faces a risk of becoming extinct.",
+      "imageName": "blueDuck",
+      "imageCredit": "Source: Department of Conservation"
+    },
+    {
+      "maoriName": "Pāteke",
+      "englishName": "Brown Teal",
+      "description": "The brown teal/pāteke is a small dabbling duck endemic to New Zealand. They are the rarest waterfowl on the mainland.",
+      "imageName": "brownTeal",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Tōrea",
+      "englishName": "Chatham Island Oystercatcher",
+      "description": "This black and white wader is unique to the Chatham Islands. It is an endangered species with a high risk of extinction due to its very small population and range.",
+      "imageName": "chathamIslandOystercatcher",
+      "imageCredit": "Source: Department of Conservation"
+    },
+    {
+      "maoriName": "Parea",
+      "englishName": "Chatham Island Pigeon",
+      "description": "Although similar in appearance to the New Zealand pigeon, the Chatham Island pigeon is about 20% heavier, making it one of the world's heaviest pigeons.",
+      "imageName": "chathamIslandPigeon",
+      "imageCredit": "Source: Department of Conservation"
+    },
+    {
+      "maoriName": "Chatham Island Tāiko",
+      "englishName": "",
+      "description": "The tāiko is one of the world's rarest seabirds, and nest in long burrows under forest cover.",
+      "imageName": "chathamIslandTaiko",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Chatham Island Tūī",
+      "englishName": "",
+      "description": "The Chatham Island tūī is a threatened subspecies of mainland tūī. It is larger and has longer throat tufts than its mainland counterpart. Its song is also significantly different.",
+      "imageName": "chathamIslandTui",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Ranguru",
+      "englishName": "Chatham Petrel",
+      "description": "Once widespread on the Chatham Islands, the Chatham petrel was until recently restricted to Rangatira Island but active management has allowed the population to grow on other islands.",
+      "imageName": "chathamPetrel",
+      "imageCredit": "Source: Department of Conservation"
+    },
+    {
+      "maoriName": "Weweia",
+      "englishName": "Dabchick",
+      "description": "The dabchick, or weweia is a specialised waterbird endemic to New Zealand. They are currently extinct from the South Island but they can be found around the Central North Island in Taupo and Rotorua.",
+      "imageName": "dabchick",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Kuaka",
+      "englishName": "Eastern Bar-tailed Godwit",
+      "description": "Bar-tailed godwits are one of 35 species that come to New Zealand each year from the Arctic.",
+      "imageName": "easternBarTailedGodwit",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Pīwakawaka",
+      "englishName": "Fantail",
+      "description": "Known for its friendly ‘cheet cheet’ call and energetic flying antics, the aptly named fantail is one of the most common and widely distributed native birds on the New Zealand mainland.",
+      "imageName": "fantail",
+      "imageCredit": "Source: Department of Conservation"
+    },
+    {
+      "maoriName": "Mātātā",
+      "englishName": "Fernbird",
+      "description": "These secretive wetland birds have disappeared from large areas of New Zealand, and populations continue to decline.",
+      "imageName": "fernbird",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Tawaki",
+      "englishName": "Fiordland Crested Penguin",
+      "description": "The Fiordland crested penguin or tawaki, is one of the rarest of New Zealand’s mainland penguins.",
+      "imageName": "fiordlandCrestedPenguin",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Riroriro",
+      "englishName": "Grey Warbler",
+      "description": "The grey warbler is a relatively inconspicuous grey bird that flits about the canopy of the forest but its call permeates the forest and takes the edge off a hard uphill slog for any attentive tramper.",
+      "imageName": "greyWarbler",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Kaikōura Tītī",
+      "englishName": "Huttons Shearwater",
+      "description": "The nationally vulnerable Hutton's shearwater is the only seabird globally to breed in a sub-alpine environment.",
+      "imageName": "huttonsShearwater",
+      "imageCredit": "Source: Department of Conservation"
+    },
+    {
+      "maoriName": "Kākā",
+      "englishName": "",
+      "description": "The kākā is a large parrot belonging to the nestorinae family, a group that includes the kea and the extinct Norfolk Island kākā.",
+      "imageName": "kaka",
+      "imageCredit": "Source: Department of Conservation"
+    },
+    {
+      "maoriName": "Kākāpō",
+      "englishName": "",
+      "description": "The kākāpō is a nocturnal, flightless parrot. And its strangeness doesn't end there. It's critically endangered and one of New Zealand’s unique treasures.",
+      "imageName": "kakapo",
+      "imageCredit": "Source: Department of Conservation"
+    },
+    {
+      "maoriName": "Kea",
+      "englishName": "",
+      "description": "The endangered kea is the world's only alpine parrot, and one of the most intelligent birds. The kea has been crowned Bird of the Year for 2017.",
+      "imageName": "kea",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Kōtare",
+      "englishName": "Kingfisher",
+      "description": "The kingfisher is a distinctive bird with a green-blue back, buff to yellow undersides and a large black bill. It has a broad black eye-stripe, and a white collar in adults. The females are slightly greener and duller.",
+      "imageName": "kingfisher",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Kiwi",
+      "englishName": "",
+      "description": "The kiwi is a unique and curious bird: it cannot fly, has loose, hair-like feathers, strong legs and no tail. Learn more about the kiwi, the national icon of New Zealand and unofficial national emblem.",
+      "imageName": "kiwi",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Kōkako",
+      "englishName": "",
+      "description": "The kōkako belongs to the endemic New Zealand wattlebirds, an ancient family of birds which includes the North and South Island saddleback and the extinct huia.",
+      "imageName": "kokako",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Kororā",
+      "englishName": "Little Penguin",
+      "description": "The world’s smallest penguin – little penguin (also known as little blue penguin) – is just over 25 cm tall and weighs around 1 kg.",
+      "imageName": "littlePenguin",
+      "imageCredit": "Source: Department of Conservation"
+    },
+    {
+      "maoriName": "Kaotareke",
+      "englishName": "Marsh Crake",
+      "description": "The at risk Baillon's crake/marsh crake/koitareke is an endemic subspecies which inhabits wetlands throughout New Zealand.",
+      "imageName": "marshCrake",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Ruru",
+      "englishName": "Morepork",
+      "description": "The native morepork is known for its haunting, melancholic call. This sound gives it the Māori name 'ruru'.",
+      "imageName": "morepork",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Tūturiwhatu",
+      "englishName": "New Zealand Dotterel",
+      "description": "The endangered New Zealand dotterel/tūturiwhatu is found only in this country.",
+      "imageName": "newZealandDotterel",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Tara Iti",
+      "englishName": "New Zealand Fairy Tern",
+      "description": "The New Zealand fairy tern/tara iti is probably New Zealand's rarest breeding bird.",
+      "imageName": "newZealandFairyFern",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Kārearea",
+      "englishName": "New Zealand Falcon",
+      "description": "Capable of flying at speeds over 100 km/h and catching prey larger than itself, the New Zealand falcon is one of our most spectacular birds.",
+      "imageName": "newZealandFalcon",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Kākāriki",
+      "englishName": "New Zealand Parakeet",
+      "description": "Kākāriki, meaning ‘small green parrot’ in Māori, are beautiful forest birds. They feed on berries, seeds, fruit and insects, and generally nest in holes in trees.",
+      "imageName": "newZealandParakeet",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Kererū",
+      "englishName": "New Zealand Pigeon",
+      "description": "The kererū is a large bird with irridescent green and bronze feathers on its head and a smart white vest. The noisy beat of its wings is a distinctive sound in our forests.",
+      "imageName": "newZealandPigeon",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Toutouwai",
+      "englishName": "New Zealand Robin",
+      "description": "The New Zealand robin or toutouwai is a sparrow-sized bird found only in New Zealand. They are friendly and trusting, often coming to within a couple of metres of people.",
+      "imageName": "newZealandRobin",
+      "imageCredit": "Source: Department of Conservation"
+    },
+    {
+      "maoriName": "Pūtakitaki ",
+      "englishName": "Paradise Duck",
+      "description": "The paradise shelduck is New Zealand’s only shelduck, a worldwide group of large, often semi-terrestrial waterfowl that have goose-like features.",
+      "imageName": "paradiseDuck",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Pūkeko",
+      "englishName": "",
+      "description": "The pūkeko is probably one of the most recognised native birds in New Zealand with its distinctive colourings and habit of feeding on the ground.",
+      "imageName": "pukeko",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Tuke",
+      "englishName": "Rock Wren",
+      "description": "A small reclusive bird, rock wren are restricted to small pockets of the South Island’s high country.",
+      "imageName": "rockWren",
+      "imageCredit": "Source: Department of Conservation"
+    },
+    {
+      "maoriName": "Tīeke",
+      "englishName": "Saddleback",
+      "description": "The saddleback or tīeke belongs to New Zealand's unique wattlebird family, an ancient group which includes the endangered kōkako and the extinct huia.",
+      "imageName": "saddleback",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Tūturuatu",
+      "englishName": "Shore plover",
+      "description": "The survival of the endangered shore plover relies on island biosecurity, captive breeding, and translocations to predator-free islands.",
+      "imageName": "shorePlover",
+      "imageCredit": "Source: Department of Conservation"
+    },
+    {
+      "maoriName": "",
+      "englishName": "Silvereye/Wax-eye",
+      "description": "The silvereye – also known as the wax-eye, or sometimes white eye – is a small and friendly olive green forest bird with white rings around its eyes.",
+      "imageName": "silvereye",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Pūweto",
+      "englishName": "Spotless Crake",
+      "description": "The at risk spotless crake/pūweto is a native subspecies which inhabits wetlands throughout New Zealand.",
+      "imageName": "spotlessCrake",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Parekarek",
+      "englishName": "Spotted Shag",
+      "description": "The spotted shag/parekareka is a medium-sized, grey-blue marine shag with a long, slender bill and yellow-orange feet. Adult breeding birds have small black spots on their back and wings.",
+      "imageName": "spottedShag",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Hihi",
+      "englishName": "Stitchbird",
+      "description": "Stitchbird/hihi is a medium-sized forest species that is one of New Zealand’s rarest birds.",
+      "imageName": "stitchbird",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "",
+      "englishName": "Subantarctic Teal",
+      "description": "Subantarctic teal include the Auckland Island teal and the distinctly different Campbell Island teal. The Campbell Island teal is one of the world's rarest ducks.",
+      "imageName": "subantarcticTeal",
+      "imageCredit": "Source: Department of Conservation"
+    },
+    {
+      "maoriName": "Takahē",
+      "englishName": "",
+      "description": "The flightless takahē is a unique bird, a conservation icon and a survivor.",
+      "imageName": "takahe",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Miromiro",
+      "englishName": "Tomtit",
+      "description": "The New Zealand tomtit looks similar to a robin. They are a small bird with a large head, a short bill and tail, and live in forest and scrub.",
+      "imageName": "tomtit",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Tūī",
+      "englishName": "",
+      "description": "Tūī are unique to New Zealand and belong to the honeyeater family, which means they feed mainly on nectar from flowers of native plants.",
+      "imageName": "tui",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Tōrea",
+      "englishName": "Variable Oystercatcher",
+      "description": "The variable oystercatcher is a large heavily-built shorebird. Adults have black upperparts, their underparts vary from all black, through a range of ‘smudgy’ intermediate states to white.",
+      "imageName": "variableOystercatcher",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Weka",
+      "englishName": "",
+      "description": "The weka is a large, brown flightless bird that has a famously feisty and curious personality.",
+      "imageName": "weka",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Tāiko",
+      "englishName": "Westland Petrel",
+      "description": "The Westland petrel (tāiko) is endemic to New Zealand and breeds only on the West Coast of the South Island.",
+      "imageName": "westlandPetrel",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Kōtuku",
+      "englishName": "White Heron",
+      "description": "The white heron has always been rare in New Zealand and it has gained almost mythical status.",
+      "imageName": "whiteHeron",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Pōpokotea",
+      "englishName": "Whitehead",
+      "description": "The whitehead/pōpokotea has a series of clear tuneful calls that fill the forest with a pleasant cacophony of sound when they appear in flocks high in the canopy of the forest.",
+      "imageName": "whitehead",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Ngutu Pare",
+      "englishName": "Wrybill",
+      "description": "No other bird in the world has a bill like New Zealand’s wrybill. Its bill curves to the right, allowing it to probe for insects under river stones.",
+      "imageName": "wrybill",
+      "imageCredit": ""
+    },
+    {
+      "maoriName": "Hoiho",
+      "englishName": "Yellow-eyed Penguin",
+      "description": "Unique to New Zealand, the hoiho, or yellow-eyed penguin, is thought to be one of the world's rarest penguin species.",
+      "imageName": "yelloweyedPenguin",
+      "imageCredit": "Source: Department of Conservation"
+    },
+    {
+      "maoriName": "Mohua",
+      "englishName": "Yellowhead",
+      "description": "The yellowhead/mohua is a small, insect eating bird which lives only in the forests of New Zealand's South Island and Stewart Island.",
+      "imageName": "yellowhead",
+      "imageCredit": ""
+    }
+  ]
+}

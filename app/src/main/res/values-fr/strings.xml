@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oiseaux indigènes de la Nouvelle-Zélande</string>
+    <string name="action_settings">réglages</string>
+    <string name="about">Sur</string>
+    <string name="doc_info">Source: Département de la conservation (NZ)</string>
+    <string name="ok">d\'accord</string>
+    <string name="visit_doc_website">" Visitez le site Web de DOC"</string>
+    <string name="nz_native_birds">Oiseaux indigènes de la Nouvelle-Zélande</string>
+    <string name="bird_list">Liste des oiseaux</string>
+    <string name="example_application">Exemple d\'application</string>
+    <string name="bird_image">Image d\'oiseau</string>
+    <string name="full_name">%1$s</string>
+    <string name="english_name"><b>nom anglais: </b> %1$s</string>
+    <string name="maori_name"><b>Nom maori: </b> %1$s</string>
+    <string name="description"><b>La description: </b> %1$s</string>
+    <string name="card_view">Vue carte</string>
+    <string name="home">Accueil</string>
+    <string name="search">Chercher</string>
+    <string name="search_hint">Rechercher un oiseau</string>
+</resources>

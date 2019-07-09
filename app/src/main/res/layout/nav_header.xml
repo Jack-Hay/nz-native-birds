@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="192dp"
+        android:background="?attr/colorPrimaryDark"
+        android:padding="16dp"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        android:orientation="vertical"
+        android:gravity="bottom">
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" tools:srcCompat="@tools:sample/avatars"
+            android:id="@+id/navImageView" android:contentDescription="@string/doc_image"/>
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nz_native_birds"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+</LinearLayout>
